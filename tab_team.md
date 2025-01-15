@@ -11,7 +11,7 @@ tags: OWASP TIET
 
 | Roles | Responsibilities | Person(s) |
 | --- | --- | --- |
-| Chapter Leaders | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | [Prajit Sengupta](mailto:prajit.sengupta@owasp.org), [Arshia Anand](mailto:arshia.anand@owasp.org)|
+| Chapter Leaders | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | [LOVISH GOYAL]
 | Faculty Advisor | Who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success. | [Maninder Kaur](mailto:maninder.kaur@owasp.org) |
 | Joint Secretaries | Managing And Taking Decisions To Ensure The Smooth Functioning Of All Departments Of The Chapter | [Shivam Dargan](https://shivamdargan.gatsbyjs.io/), [Yashvardhan Arora](https://yashvardhan.servatom.com/) ,[Hiya Dey Sarkar](mailto:hsarkar_be20@thapar.edu) [Ananya Aggarwal](mailto:aagarwal3_be20@thapar.edu) |
 | Management Secretaries | Manages The Smooth Functioning Of Events And Other Instrumental Departments | [Gurleen kaur](mailto:gkaur1_be20@thapar.edu), [Aastik Saluja](mailto:asaluja_be20@thapar.edu) |
